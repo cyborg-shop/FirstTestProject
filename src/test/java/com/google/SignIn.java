@@ -10,10 +10,10 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.awt.*;
 import java.awt.event.KeyEvent;
 
-public class SignUp {
+public class SignIn {
 
     @Test
-    public void signUp() throws AWTException {
+    public void signIn() throws AWTException {
 
         System.setProperty("webdriver.chrome.driver", "/Users/vatuz/Downloads/chromedriver.exe");
 
